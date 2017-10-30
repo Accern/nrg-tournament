@@ -1,0 +1,1 @@
+This directory contains all of the frontend code using React. You may add any subdirectories to organize your code (like primitives or containers folders)

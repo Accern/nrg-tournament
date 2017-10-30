@@ -1,0 +1,1 @@
+This directory contains all of the files needed for the server. You may add any subdirectories you want to organize them (like graphql or db folders)
